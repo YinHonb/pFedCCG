@@ -1,4 +1,4 @@
-﻿# Controlled Collaboration Geometry for Personalized Federated Learning, submitted to ICML 2026
+﻿# [Controlled Collaboration Geometry for Personalized Federated Learning](https://icml.cc/virtual/2026/poster/61399) (ICML 2026)
 
 ## Suggested environment
 * CUDA 12.1
